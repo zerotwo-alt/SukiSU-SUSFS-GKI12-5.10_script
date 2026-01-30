@@ -5,7 +5,7 @@ Minimal script to apply **SukiSU builtin** and **SUSFS** on **GKI Android 12 (ke
 ## Usage
 Run from the **kernel root directory**:
 ```bash
-curl -LSs https://raw.githubusercontent.com/zylhdrXP/SukiSU-SUSFS-GKI12-5.10_script/main/sukisusfs-setup.sh | bash
+curl -LSs https://raw.githubusercontent.com/zerotwo-alt/SukiSU-SUSFS-GKI12-5.10_script/refs/heads/main/sukisusfs-setup.sh | bash
 ```
 
 ## Credit
